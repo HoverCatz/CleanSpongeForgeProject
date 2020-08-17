@@ -1,0 +1,20 @@
+[
+    {
+        "modid": "anubispixelmontournaments",
+        "name": "AnubisPixelmonTournaments",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/Auqkwa-Tech-LLC/AnubisPixelmonTournaments",
+        "authorList": [ "HoverCatz" ],
+        "dependencies": [
+            "placeholderapi",
+            "spongeapi@7.1.0-6eb292fd",
+            "pixelmon"
+        ],
+        "requiredMods": [
+            "spongeapi@7.1.0-6eb292fd",
+            "pixelmon"
+        ]
+    }
+]
