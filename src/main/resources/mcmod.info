@@ -5,8 +5,8 @@
         "description": "",
         "version": "${version}",
         "mcversion": "${mcversion}",
-        "url": "https://github.com/Auqkwa-Tech-LLC/<your_project_name_here>",
-        "authorList": [ "" ],
+        "url": "https://github.com/Auqkwa-Tech-LLC/",
+        "authorList": [ "Test" ],
         "dependencies": [
             "spongeapi@7.1.0-6eb292fd",
             "pixelmon"

@@ -9,7 +9,7 @@ import org.spongepowered.api.plugin.Plugin;
     id = "your_mod_id_here",
     name = "your_mod_name_here",
     dependencies = @Dependency(id = "gooeylibsponge"),
-    authors = ""
+    authors = "some_author"
 )
 public class CleanSpongeForgeProject
 {
