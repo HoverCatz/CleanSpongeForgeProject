@@ -1,14 +1,13 @@
 [
     {
-        "modid": "anubispixelmontournaments",
-        "name": "AnubisPixelmonTournaments",
+        "modid": "your_mod_id_here",
+        "name": "your_mod_name_here",
         "description": "",
         "version": "${version}",
         "mcversion": "${mcversion}",
-        "url": "https://github.com/Auqkwa-Tech-LLC/AnubisPixelmonTournaments",
-        "authorList": [ "HoverCatz" ],
+        "url": "https://github.com/Auqkwa-Tech-LLC/<your_project_name_here>",
+        "authorList": [ "" ],
         "dependencies": [
-            "placeholderapi",
             "spongeapi@7.1.0-6eb292fd",
             "pixelmon"
         ],
