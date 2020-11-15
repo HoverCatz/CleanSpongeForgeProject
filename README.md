@@ -4,6 +4,9 @@
 - Change all plugin info inside main class
 - Remove default package and class, and set files up yourself
 
+**In terminal, run once:**
+- `gradlew`
+
 **How to build:**
 - Click "**Add configuration**"
 - Click the **"+" (plus)**
